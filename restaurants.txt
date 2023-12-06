@@ -1,0 +1,11 @@
+RestaurantID,Restaurant Name,Restaurant Address,Restaurant Rating, Number of Ratings
+0,restaurantname0,restaurantcity0  restaurantdistrict0 47,1.696,148
+1,restaurantname1,restaurantcity1  restaurantdistrict1 67,4.095,21
+2,restaurantname2,restaurantcity2  restaurantdistrict2 55,4.161,168
+3,restaurantname3,restaurantcity3  restaurantdistrict3 76,3.949241,158
+4,restaurantname4,restaurantcity4  restaurantdistrict4 100,3.062464,211
+5,restaurantname5,restaurantcity5  restaurantdistrict5 35,3.864943,192
+6,restaurantname6,restaurantcity6  restaurantdistrict6 65,2.326,132
+7,restaurantname7,restaurantcity7  restaurantdistrict7 87,1.843,51
+8,restaurantname8,restaurantcity8  restaurantdistrict8 90,2.913,23
+9,restaurantname9,restaurantcity9  restaurantdistrict9 96,2.814,43
